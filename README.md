@@ -46,3 +46,14 @@ The table you provided shows the top 10 customers by customer ID, country, and q
 Table                               |          Map
 :----------------------------------:|:----------------:
 ![](Customers_locationtable.png)         |     ![](customers_map.png)
+
+## Recommendations: 
+-The business could focus on marketing and sales efforts to attract more customers from the United States and Germany.
+-The business could offer special discounts or loyalty programs to its top customers, such as SAVEA.
+- All of the shipping lines could focus on developing new and innovative services to attract and retain customers.
+-Some specific actions that companies can take to improve their employee performance and sales results:
+•	Invest in employee training and development: Help employees develop the skills and knowledge they need to be successful in their roles.
+•	Create a positive and supportive work environment: Provide employees with the resources and support they need to do their jobs well.
+•	Set clear and achievable goals: Give employees clear goals to work towards and provide them with regular feedback on their performance.
+•	Reward and recognize high performance: Recognize and reward employees for their hard work and achievements.
+
