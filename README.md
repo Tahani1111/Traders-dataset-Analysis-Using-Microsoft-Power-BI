@@ -26,3 +26,18 @@ The data was cleaned and filtered to make it easier to analyze. This included fo
 7.	What is the total number of shipping lines? 3
 ![](F_line.png)
 
+## Who are the top 10 customers based on the total orders?
+The dashboard shows that the business has a good mix of large and small customers. However, the top customer is a very important customer to the business and accounts for a significant portion of the total quantity of orders.
+![](top10_customers.png)
+
+## What is the sales performance of each employee?
+The graph  shows that there is a significant variation in the number of sales per employee. This suggests that some employees are more productive than others. This could be due to a number of factors, such as:
+Skill level: Employees with more skills and experience are likely to be more productive.
+Motivation: More motivated Employees are likely to be more productive.
+Work environment: Employees who work in a positive and supportive work environment are likely to be more productive.
+![](Employee_performance.png)
+
+## Which shipping line is most preferable?
+ The pie chart shows the distribution of shipping lines used by customers. The chart shows that United Package is the most popular shipping line, accounting for 40.09% of all shipments. Speedy Express and Federal Shipping are the next most popular shipping lines, accounting for 29.93% and 29.96% of all shipments, respectively.
+ ![](Shippinp_lines.png)
+ 
