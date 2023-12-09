@@ -16,4 +16,5 @@ This task is to demonstrate analysis of the Northwind traders dataset using Micr
     
 ## DATA TRANSFORMATION & CLEANING
 The data was cleaned and filtered to make it easier to analyze. This included formatting the text and number types to ensure the data would not return errors.
+## Analysis & Visualisation
 
