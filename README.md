@@ -17,6 +17,12 @@ This task is to demonstrate analysis of the Northwind traders dataset using Micr
 ## DATA TRANSFORMATION & CLEANING
 The data was cleaned and filtered to make it easier to analyze. This included formatting the text and number types to ensure the data would not return errors.
 ## Analysis & Visualisation
-
-![]()
+1.	What is the total number of customers? 91
+2.	What is the total number of employees? 9
+3.	What is the total number of products? 77 
+4.	What is the total number of categories? 8 
+5.	What is the total number of cities? 69 
+6.	What is the total number of countries? 21
+7.	What is the total number of shipping lines? 3
+![](F_line.png)
 
