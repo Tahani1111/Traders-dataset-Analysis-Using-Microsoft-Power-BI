@@ -40,4 +40,9 @@ Work environment: Employees who work in a positive and supportive work environme
 ## Which shipping line is most preferable?
  The pie chart shows the distribution of shipping lines used by customers. The chart shows that United Package is the most popular shipping line, accounting for 40.09% of all shipments. Speedy Express and Federal Shipping are the next most popular shipping lines, accounting for 29.93% and 29.96% of all shipments, respectively.
  ![](Shippinp_lines.png)
- 
+
+ ## What is the location of the top 10 customers?
+The table you provided shows the top 10 customers by customer ID, country, and quantity of orders. The customers are from a variety of countries, such as the United States, Germany, and Ireland.
+Table                               |          Map
+:----------------------------------:|:----------------:
+![](Customers_locationtable.png)         |     ![](customers_map.png)
